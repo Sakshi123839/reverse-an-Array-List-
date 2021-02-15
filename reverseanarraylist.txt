@@ -1,0 +1,24 @@
+ImportJava.Util.ArrayList;
+ImportJava.Util.collections;
+
+Public class ReverseAnArrayList{
+Public class void main(string[]args){
+
+//creat an arrayList object
+ArrayList arrayList= new ArrayList();
+
+//Add elements to Arraylist
+arraylist.add("A");
+arraylist.add("B");
+arraylist.add("C");
+arraylist.add("D");
+arraylist.add("E");
+
+system.out.println("Before Reverse Order, ArrayList Contains:"+arrayList);
+//Reverse the order of all elements of JAVA ArrayList
+
+collectionS.reverse(araylist);
+
+system.out.println("After Reverse Order, Arraylist Cotains:"+arrayList);
+}
+}
